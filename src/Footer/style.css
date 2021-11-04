@@ -1,0 +1,23 @@
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 250px;
+    color: #fff;
+    margin-top: 80px;
+    padding: 0 32
+}
+
+.footer-left{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 640px;
+    height: 200px;
+    border-right: 1px solid gray;
+}
+
+.footer-right{
+    width: 1280px;
+    padding-left: 20px;
+}

@@ -1,0 +1,14 @@
+.menu {
+  display: flex;
+  color: #fff;
+}
+
+.menu li {
+  list-style: none;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.menu li:hover {
+  border-bottom: 2px solid rgb(253, 253, 114);
+}
